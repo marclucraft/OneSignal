@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18312390182",
+    "project_id": "randomiser-b195d",
+    "storage_bucket": "randomiser-b195d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18312390182:android:e072b08fda9d44888668e7",
+        "android_client_info": {
+          "package_name": "com.example.randomiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18312390182-ar3fugsbvpqhf9dfuak381biug9nd09q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQqAfceQ7EVRUft_9OQ2NrVHv1q4Xd5qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18312390182-ar3fugsbvpqhf9dfuak381biug9nd09q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
